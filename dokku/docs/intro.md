@@ -1,49 +1,78 @@
 ---
 sidebar_position: 1
+title: Loja
 ---
 
-# Tutorial Intro
+# Loja
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bem-vindo à **O meu Site**, a tua loja de tecnologia de confiança.
 
-## Getting Started
+Aqui encontras equipamentos de qualidade, ideais para gaming, trabalho e uso diário.
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 🖥️ Computadores & Componentes
 
-### What you'll need
+- **RAM 16GB DDR4**  
+  Ideal para melhorar o desempenho do teu computador.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **SSD NVMe 1TB**  
+  Velocidade máxima para sistemas e jogos.
 
-## Generate a new site
+- **Placa Gráfica NVIDIA RTX 4060**  
+  Performance de última geração para gaming e criação de conteúdo.
 
-Generate a new Docusaurus site using the **classic template**.
+---
 
-The classic template will automatically be added to your project after you run the command:
+## 💻 Portáteis & Monitores
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **Laptop ASUS TUF Gaming F15**  
+  Portátil robusto e potente para gaming.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Monitor HP OMEN 24” (23.8”)**  
+  Monitor gaming com excelente taxa de atualização.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## 📱 Dispositivos Móveis & Áudio
 
-Run the development server:
+- **Smartphone Samsung S23**  
+  Smartphone topo de gama com excelente câmara.
 
-```bash
-cd my-website
-npm run start
-```
+- **AirPods Pro 2**  
+  Som premium com cancelamento de ruído.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- **Coluna Bluetooth JBL Flip 6**  
+  Áudio potente e portátil.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## ⌨️ Periféricos
 
+- **Mouse Logitech G502**  
+  Precisão máxima para gaming.
 
+- **Teclado Mecânico Redragon K552**  
+  Teclado resistente com switches mecânicos.
+
+---
+
+## 📺 Casa & Escritório
+
+- **Samsung TV Crystal UHD 2024**  
+  Qualidade de imagem incrível para entretenimento.
+
+- **Impressora HP DeskJet 4220**  
+  Ideal para uso doméstico e escolar.
+
+---
+
+## 📞 Contactos
+
+📧 **Email:** contacto@omeusite.pt  
+📍 **Localização:** Portugal  
+📦 **Envios:** 24–48 horas úteis
+
+---
+
+*Os preços e disponibilidade podem variar.*
