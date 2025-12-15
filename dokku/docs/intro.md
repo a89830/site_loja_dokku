@@ -1,7 +1,8 @@
 ---
-sidebar_position: 1
 title: Loja
+sidebar_position: 1
 ---
+
 
 # Loja
 
