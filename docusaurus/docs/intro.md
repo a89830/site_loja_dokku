@@ -2,46 +2,48 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+ Produtos
 
-Let's discover **Docusaurus in less than 5 minutes**.
+---
+title: Produtos Disponíveis
+---
 
-## Getting Started
+# Produtos Disponíveis
 
-Get started by **creating a new site**.
+Aqui está a lista de produtos disponíveis na loja, com as suas descrições detalhadas:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **RAM 16GB DDR4**  
+  Ideal para gaming e multitarefa. Frequência rápida e estável.
 
-### What you'll need
+- **Monitor HP OMEN 24 23.8**  
+  Monitor gaming 165Hz com cores vivas e resposta rápida.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Mouse Logitech G502**  
+  Mouse profissional com 11 botões programáveis.
 
-## Generate a new site
+- **Samsung TV Crystal UHD 2024**  
+  Televisão 4K com tecnologia Crystal para imagem nítida.
 
-Generate a new Docusaurus site using the **classic template**.
+- **SSD NVMe 1TB**  
+  Armazenamento ultra rápido para reduzir tempos de carregamento.
 
-The classic template will automatically be added to your project after you run the command:
+- **Teclado Mecânico Redragon K552**  
+  Teclado mecânico compacto com switches azuis.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **AirPods Pro 2**  
+  Cancelamento ativo de ruído e som de alta qualidade.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Smartphone Samsung S23**  
+  Smartphone potente com excelente câmara e desempenho.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- **Laptop ASUS TUF Gaming F15**  
+  Portátil gaming robusto com RTX e alta performance.
 
-## Start your site
+- **Impressora HP DeskJet 4220**  
+  Impressora multifunções ideal para casa e escritório.
 
-Run the development server:
+- **Coluna Bluetooth JBL Flip 6**  
+  Som poderoso com resistência à água.
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Placa Gráfica NVIDIA RTX 4060**  
+  GPU moderna para gaming e criação de conteúdo.
