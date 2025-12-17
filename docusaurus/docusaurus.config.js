@@ -47,7 +47,7 @@ const config = {
         title: 'Loja Dokku',
         logo: {
           alt: 'Loja Dokku Logo',
-          src: 'img/logo.svg', // Garante que este ficheiro existe em static/img/
+          src: 'img/4260900.png', // Garante que este ficheiro existe em static/img/
         },
         items: [
           {
