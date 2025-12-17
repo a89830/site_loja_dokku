@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Loja Dokku',
   tagline: 'A tua loja de informática de confiança',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/4260900.png',
 
   url: 'https://lojadokku.pt', // Substitui pelo teu URL real se tiveres
   baseUrl: '/',
